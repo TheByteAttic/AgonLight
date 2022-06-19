@@ -3,6 +3,6 @@ This repository is still in a PRE-RELEASE state and contains no documentation or
 
 Official website: https://www.thebyteattic.com/p/agon.html
 
-![AgonLight Tiny](https://user-images.githubusercontent.com/69539226/174462247-27bceeb5-9327-4ab9-9f3a-fc9d77a20993.png)
+![AgonLight Tiny](https://user-images.githubusercontent.com/69539226/174462809-74da7287-020a-45ee-8996-a5056379a8d4.png)
 
 ![AgonLight top small](https://user-images.githubusercontent.com/69539226/174460606-0e86b685-e6bd-4564-a6f9-5506d476ab9a.png)
