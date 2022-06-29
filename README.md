@@ -10,7 +10,7 @@ The three modules of Quark™, Agon light™'s official firmware, can be found h
   <LI><a href="https://github.com/breakintoprogram/agon-mos">Agon MOS</a><br>
   <LI><a href="https://github.com/breakintoprogram/agon-vpd">Agon VPD</a><br>
 </UL>
-![AgonLight top small](https://user-images.githubusercontent.com/69539226/174460606-0e86b685-e6bd-4564-a6f9-5506d476ab9a.png)
+![AgonLight top small](https://user-images.githubusercontent.com/69539226/176546953-d6d5a319-20ea-49d6-84d9-6f3219fd9094.png)
 The directory structure above contains the following information:
 <UL>
   <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/3D%20model">/3D Model</a> contains a, well, 3D model of Agon light™'s board and a 2D image specifying the PCB's key dimensions. These are meant for those interested in designing and building custom (3D-printed) cases for Agon light™.
