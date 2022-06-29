@@ -11,7 +11,7 @@ The three modules of Quark™, Agon light™'s official firmware, can be found h
 ![AgonLight top small](https://user-images.githubusercontent.com/69539226/174460606-0e86b685-e6bd-4564-a6f9-5506d476ab9a.png)
 The directory structure above contains the following information:
 <UL>
-  <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/3D%20model">/3D Model</a> contains a, well, 3D model of Agon light™'s board and a 2D image specifying the PCB's key dimensions.
+  <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/3D%20model">/3D Model</a> contains a, well, 3D model of Agon light™'s board and a 2D image specifying the PCB's key dimensions. These are meant for those interested in designing and building custom (3D-printed) cases for Agon light™.
   <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/Design">/Design</a> contains all design files, like schematics, EasyEDA source files and PCB layout.
   <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/Manufacturing">/Manufacturing</a> contains the files necessary to have an Agon light board manufactured, such as the Gerber file, Bill of Materials and Pick and Place file.
   <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/Photos">/Photos</a> contains photos of a properly assembled Agon light™ unit, so to provide detailed references for those attempting to build on themselves.
