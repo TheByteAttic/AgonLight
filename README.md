@@ -23,6 +23,7 @@ The directory structure above contains the following information:
 <p>
 <hr>
 <b>CHANGE HISTORY:</b>
+<p>
 <UL>
   <LI><b>30 June 2022</b>: all files of Rev. 1.0 uploaded.
 </UL>
