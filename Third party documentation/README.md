@@ -1,0 +1,1 @@
+These are useful documentation files from third-parties, such as Zilog (makers of the eZ80 CPU) and Espressif Systems (makers of the ESP32). There is also documentation for the freely-available development environments that can be used to develop firmware for Agon light™.
