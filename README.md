@@ -4,10 +4,12 @@
 
 Agon light is a unique combination of instant-on microcomputer and standalone microcontroller, which allows you to control your projects from the convenience and immediacy of a BASIC prompt, without the need for a host PC or sketch compilation. To find out more about what makes Agon light™ unique, useful and attractive, please visit the official website at: https://www.thebyteattic.com/p/agon.html<br>
 The <a href="https://github.com/TheByteAttic/AgonLight/blob/main/Agon%20light%20R1.0%20Manual.pdf">Manual</a> should also contain everything you need to know.<br>
-The three modules of Quark™, Agon light™'s official firmware, can be found here:<br>
-<a href="https://github.com/breakintoprogram/agon-bbc-basic">Agon BBC BASIC</a><br>
-<a href="https://github.com/breakintoprogram/agon-mos">Agon MOS</a><br>
-<a href="https://github.com/breakintoprogram/agon-vpd">Agon VPD</a><br>
+The three modules of Quark™, Agon light™'s official firmware, can be found here:
+<UL>
+  <LI><a href="https://github.com/breakintoprogram/agon-bbc-basic">Agon BBC BASIC</a><br>
+  <LI><a href="https://github.com/breakintoprogram/agon-mos">Agon MOS</a><br>
+  <LI><a href="https://github.com/breakintoprogram/agon-vpd">Agon VPD</a><br>
+</UL>
 ![AgonLight top small](https://user-images.githubusercontent.com/69539226/174460606-0e86b685-e6bd-4564-a6f9-5506d476ab9a.png)
 The directory structure above contains the following information:
 <UL>
