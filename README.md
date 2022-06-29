@@ -4,10 +4,10 @@
 
 To find out what Agon light™ is, and why it is unique, useful and attractive, please visit the official website at: https://www.thebyteattic.com/p/agon.html<br>
 The <a href="https://github.com/TheByteAttic/AgonLight/blob/main/Agon%20light%20R1.0%20Manual.pdf">Manual</a> should also contain everything you need to know.
-The three modules of Quark™, Agon light™'s official firmware, can be found here:
-<a href="https://github.com/breakintoprogram/agon-bbc-basic">Agon BBC BASIC</a>
-<a href="https://github.com/breakintoprogram/agon-mos">Agon MOS</a>
-<a href="https://github.com/breakintoprogram/agon-vpd">Agon VPD</a>
+The three modules of Quark™, Agon light™'s official firmware, can be found here:<br>
+<a href="https://github.com/breakintoprogram/agon-bbc-basic">Agon BBC BASIC</a><br>
+<a href="https://github.com/breakintoprogram/agon-mos">Agon MOS</a><br>
+<a href="https://github.com/breakintoprogram/agon-vpd">Agon VPD</a><br>
 ![AgonLight top small](https://user-images.githubusercontent.com/69539226/174460606-0e86b685-e6bd-4564-a6f9-5506d476ab9a.png)
 The directory structure above contains the following information:
 <UL>
