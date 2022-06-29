@@ -2,5 +2,5 @@ These are useful documentation files from third-parties, such as Zilog (makers o
 Here are some useful links:
 <UL>
 <LI><a href="https://www.zilog.com/index.php?option=com_zcm&task=view&soft_id=38&Itemid=74">Download Zilog's ZDS-II IDE to write firmware for the eZ80 CPU</a>.
-<LI><a href="http://www.fabglib.org/index.html">FabGL library documentation, supported by Agon light™</a>.
+<LI><a href="http://www.fabglib.org/index.html">FabGL library downloads and documentation. FabGL is supported by Agon light™</a>.
 </UL>
