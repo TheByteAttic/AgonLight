@@ -17,7 +17,7 @@ The directory structure above contains the following information:
   <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/3D%20model">/3D Model</a> contains a, well, 3D model of Agon light™'s board and a 2D image specifying the PCB's key dimensions. These are meant for those interested in designing and building custom (3D-printed) cases for Agon light™.
   <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/Design">/Design</a> contains all design files, like schematics, EasyEDA source files and PCB layout.
   <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/Manufacturing">/Manufacturing</a> contains the files necessary to have an Agon light™ board manufactured, such as the Gerber file, Bill of Materials and Pick and Place file.
-  <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/Photos">/Photos</a> contains photos of a properly assembled Agon light™ unit, so to provide detailed references for those attempting to build one themselves.
+  <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/Photos">/Photos</a> contains photos of a properly assembled Agon light™ unit, so to provide detailed references for those attempting to build one themselves. These photos can also be used by the media (feel free to do so if you are a journalist or tech writer).
   <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/Third%20party%20documentation">/Third party documentation</a> contains what the name suggests: useful datasheets, user manuals, guides and application/technical notes of parts and software used in/with Agon light™.
 </UL>
 <p>
