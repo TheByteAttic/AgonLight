@@ -20,7 +20,7 @@ The directory structure above contains the following information:
   <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/Photos">/Photos</a> contains photos of a properly assembled Agon light™ unit, so to provide detailed references for those attempting to build one themselves. These photos can also be used by the media (feel free to do so if you are a journalist or tech writer).
   <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/Third%20party%20documentation">/Third party documentation</a> contains what the name suggests: useful datasheets, user manuals, guides and application/technical notes of parts and software used in/with Agon light™.
 </UL>
-<p>
+<p><p>
 All files in this repository are copyright &copy; 2022 by Bernardo Kastrup. All rights are reserved.
 <p>
 <hr>
