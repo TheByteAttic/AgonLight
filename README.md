@@ -4,7 +4,7 @@
 
 Agon light™ is a unique combination of instant-on microcomputer and standalone microcontroller, which allows you to control your projects from the convenience and immediacy of a BASIC prompt, without the need for a host PC or sketch compilation. To find out more about what makes Agon light™ unique, useful and attractive, please visit the official website at: https://www.thebyteattic.com/p/agon.html.<p>
 The <a href="https://github.com/TheByteAttic/AgonLight/blob/main/Agon%20light%20R1.0%20Manual.pdf">Manual</a> should also contain everything you need to know.<p>
-The three modules of Quark™, Agon light™'s official firmware, can be found here:
+The three modules of Agon light™'s official firmware, called Quark™, can be found here:
 <UL>
   <LI><a href="https://github.com/breakintoprogram/agon-bbc-basic">Agon BBC BASIC</a><br>
   <LI><a href="https://github.com/breakintoprogram/agon-mos">Agon MOS</a><br>
@@ -12,7 +12,7 @@ The three modules of Quark™, Agon light™'s official firmware, can be found h
 </UL>
 Agon light™ has an <a href="https://www.printables.com/model/235402-agonlight-case">official, customized, 3D-printed case</a>, designed by Jeroen Venema. I recommend that this case be always used.
 <p>
-<table style="margin: 0px auto;">
+<table style="margin: 0px auto;" align="center">
 <tbody><tr>
 <td align="center">
 <img src="https://user-images.githubusercontent.com/69539226/177224407-49a45fdf-4742-4b64-ae6d-202f979c21c8.png" width="400">
