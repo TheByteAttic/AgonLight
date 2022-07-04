@@ -13,7 +13,7 @@ The three modules of Quark™, Agon light™'s official firmware, can be found h
 Agon light™ has an <a href="https://www.printables.com/model/235402-agonlight-case">official, customized, 3D-printed case</a>, designed by Jeroen Venema. I recommend that this case be always used.
 <p>
     
-<img src="https://user-images.githubusercontent.com/69539226/177224407-49a45fdf-4742-4b64-ae6d-202f979c21c8.png" width="100">
+<img src="https://user-images.githubusercontent.com/69539226/177224407-49a45fdf-4742-4b64-ae6d-202f979c21c8.png" width="400" align="center">
 
 <p><br>
 The directory structure above contains the following information:
