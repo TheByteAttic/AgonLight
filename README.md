@@ -10,7 +10,7 @@ The three modules of Agon light™'s official firmware, called Quark™, can be 
   <LI><a href="https://github.com/breakintoprogram/agon-mos">Agon MOS</a><br>
   <LI><a href="https://github.com/breakintoprogram/agon-vpd">Agon VPD</a><br>
 </UL>
-Agon light™ has an <a href="https://www.printables.com/model/235402-agonlight-case">official, customized, 3D-printed case</a>, designed by Jeroen Venema. I recommend that this case be always used for extra mechanical stability.
+Agon light™ has an <a href="https://www.printables.com/model/235402-agonlight-case">official, customized, 3D-printed case</a>, designed by Jeroen Venema. I recommend that this case for protection and extra mechanical stability.
 <p>
 <table style="margin: 0px auto;" align="center">
 <tbody><tr>
