@@ -21,7 +21,7 @@ The directory structure above contains the following information:
   <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/Third%20party%20documentation">/Third party documentation</a> contains what the name suggests: useful datasheets, user manuals, guides and application/technical notes of parts and software used in/with Agon light™.
 </UL>
 <p><p>
-All files in this repository are copyright &copy; 2022 by Bernardo Kastrup. All rights are reserved.
+All files in this repository, except for the third-party documentation, are copyright &copy; 2022 by Bernardo Kastrup. All rights are reserved.
 <p>
 <hr>
 <b>CHANGE HISTORY:</b>
