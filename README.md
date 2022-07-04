@@ -22,7 +22,7 @@ Agon light™ has an <a href="https://www.printables.com/model/235402-agonlight-
 </td>
 </tr></tbody>  
 </table>
-<p>
+<p><br>
 The directory structure above contains the following information:
 <UL>
   <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/3D%20model">/3D Model</a> contains a, well, 3D model of Agon light™'s board and a 2D image specifying the PCB's key dimensions. These are meant for those interested in designing and building custom (3D-printed) cases for Agon light™.
