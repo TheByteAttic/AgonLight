@@ -15,7 +15,10 @@ Agon light™ has an <a href="https://www.printables.com/model/235402-agonlight-
 <table style="text-align: center;">
 <tbody><tr>
 <td>
-<img src="https://user-images.githubusercontent.com/69539226/177224407-49a45fdf-4742-4b64-ae6d-202f979c21c8.png" width="600">
+<img src="https://user-images.githubusercontent.com/69539226/177224407-49a45fdf-4742-4b64-ae6d-202f979c21c8.png" width="300">
+</td>
+<td>
+<img src="https://user-images.githubusercontent.com/69539226/177225099-0e133823-dd76-4728-9ba4-1906b3d70e45.png" width="300">
 </td>
 </tr></tbody>  
 </table>
