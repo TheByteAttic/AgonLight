@@ -11,8 +11,10 @@ The three modules of Quark™, Agon light™'s official firmware, can be found h
   <LI><a href="https://github.com/breakintoprogram/agon-vpd">Agon VPD</a><br>
 </UL>
 Agon light™ has an official, customized, 3D-printed case, designed by Jeroen Venema. I recommend that this case be always used.
+    
 ![AgonLight custom case](https://user-images.githubusercontent.com/69539226/177224407-49a45fdf-4742-4b64-ae6d-202f979c21c8.png)
  <p>
+   
 ![AgonLight top small](https://user-images.githubusercontent.com/69539226/177007640-d767e277-f808-4206-9fc4-2d244c61b045.png)
 The directory structure above contains the following information:
 <UL>
