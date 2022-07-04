@@ -13,9 +13,7 @@ The three modules of Quark™, Agon light™'s official firmware, can be found h
 Agon light™ has an official, customized, 3D-printed case, designed by Jeroen Venema. I recommend that this case be always used.
     
 ![AgonLight custom case](https://user-images.githubusercontent.com/69539226/177224407-49a45fdf-4742-4b64-ae6d-202f979c21c8.png)
- <p>
-   
-![AgonLight top small](https://user-images.githubusercontent.com/69539226/177007640-d767e277-f808-4206-9fc4-2d244c61b045.png)
+
 The directory structure above contains the following information:
 <UL>
   <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/3D%20model">/3D Model</a> contains a, well, 3D model of Agon light™'s board and a 2D image specifying the PCB's key dimensions. These are meant for those interested in designing and building custom (3D-printed) cases for Agon light™.
@@ -24,6 +22,9 @@ The directory structure above contains the following information:
   <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/Photos">/Photos</a> contains photos of a properly assembled Agon light™ unit, so to provide detailed references for those attempting to build one themselves. These photos can also be used by the media (feel free to do so if you are a journalist or tech writer).
   <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/Third%20party%20documentation">/Third party documentation</a> contains what the name suggests: useful datasheets, user manuals, guides and application/technical notes of parts and software used in/with Agon light™.
 </UL>
+   
+![AgonLight top small](https://user-images.githubusercontent.com/69539226/177007640-d767e277-f808-4206-9fc4-2d244c61b045.png)
+
 <p><p>
 All files in this repository, except for the third-party documentation, are copyright &copy; 2022 by Bernardo Kastrup. All rights are reserved.
 <p>
