@@ -35,7 +35,8 @@ The directory structure above contains the following information:
 ![AgonLight top small](https://user-images.githubusercontent.com/69539226/177007640-d767e277-f808-4206-9fc4-2d244c61b045.png)
 
 <p><br>
-All files in this repository, except for the third-party documentation, copyright &copy; 2022 by Bernardo Kastrup. All rights are reserved.
+All files in this repository, except for the third-party documentation, copyright &copy; 2022 by Bernardo Kastrup.
+All rights are reserved.
 <p>
 <hr>
 <b>CHANGE HISTORY:</b>
