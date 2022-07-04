@@ -14,10 +14,10 @@ Agon light™ has an <a href="https://www.printables.com/model/235402-agonlight-
 <p>
 <table style="margin: 0px auto;">
 <tbody><tr>
-<td>
+<td align="center">
 <img src="https://user-images.githubusercontent.com/69539226/177224407-49a45fdf-4742-4b64-ae6d-202f979c21c8.png" width="400">
 </td>
-<td>
+<td align="center">
 <img src="https://user-images.githubusercontent.com/69539226/177225099-0e133823-dd76-4728-9ba4-1906b3d70e45.png" width="400">
 </td>
 </tr></tbody>  
