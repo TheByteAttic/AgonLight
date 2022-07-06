@@ -36,5 +36,6 @@ All rights are reserved.
 <b>CHANGE HISTORY:</b>
 <p>
 <UL>
-  <LI><b>30 June 2022</b>: all files of Rev. 1.0 uploaded.
+  <LI><b>06 July 2022</b>: Added what is now page 18 of the manual.
+  <LI><b>30 June 2022</b>: All files of Rev. 1.0 uploaded.
 </UL>
