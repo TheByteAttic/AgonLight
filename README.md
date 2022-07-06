@@ -36,6 +36,6 @@ All rights are reserved.
 <b>CHANGE HISTORY:</b>
 <p>
 <UL>
-  <LI><b>06 July 2022</b>: Added what is now page 18 of the manual.
+  <LI><b>06 July 2022</b>: Added what is now page 18 of the manual. More photos (of the official case) added to the /Photos directory.
   <LI><b>30 June 2022</b>: All files of Rev. 1.0 uploaded.
 </UL>
