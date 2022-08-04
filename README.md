@@ -36,7 +36,8 @@ All rights are reserved.
 <b>CHANGE HISTORY:</b>
 <p>
 <UL>
-  <LI><b>26 July 2022</b>: Various bits and pieces of previously missing information added to the manual. System diagram updated.
-  <LI><b>06 July 2022</b>: Added what is now page 18 of the manual. More photos (of the official case) added to the /Photos directory.
+  <LI><b>4 August 2022</b>: Update of the Manual. The theory of operation (slide 6) and the system diagram (slide 7) now contain information about the two interrupt lines from the ESP32 available to the eZ80F92. A description of the control port signals (slide 10) has also been added.
+  <LI><b>26 July 2022</b>: Various bits and pieces of previously missing information added to the manual. System diagram (slide 7) updated.
+  <LI><b>06 July 2022</b>: Added what is now page 19 of the manual. More photos (of the official case) added to the /Photos directory.
   <LI><b>30 June 2022</b>: All files of Rev. 1.0 uploaded.
 </UL>
