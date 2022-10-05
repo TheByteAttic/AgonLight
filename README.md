@@ -18,7 +18,6 @@ Agon light™ has an <a href="https://www.printables.com/model/235402-agonlight-
 <p><br>
 The directory structure above contains the following information:
 <UL>
-  <LI>Quick Start Guide uploaded.
   <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/3D%20model">/3D Model</a> contains a, well, 3D model of Agon light™'s board and a 2D image specifying the PCB's key dimensions. These are meant for those interested in designing and building custom (3D-printed) cases for Agon light™.
   <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/Design">/Design</a> contains all design files, like schematics, EasyEDA source files and PCB layout.
   <LI><a href="https://github.com/TheByteAttic/AgonLight/tree/main/Manufacturing">/Manufacturing</a> contains the files necessary to have an Agon light™ board manufactured, such as the Gerber file, Bill of Materials and Pick and Place file.
@@ -37,6 +36,7 @@ All rights are reserved.
 <b>CHANGE HISTORY:</b>
 <p>
 <UL>
+  <LI><b>5 October 2022</b>: Quick Start Guide uploaded.
   <LI><b>4 August 2022</b>: Update of the Manual. The theory of operation (page 6) and the system diagram (page 7) now contain information about the two interrupt lines from the ESP32 available to the eZ80F92. A description of the control port signals (page 10) has also been added.
   <LI><b>26 July 2022</b>: Various bits and pieces of previously missing information added to the manual. System diagram (page 7) updated.
   <LI><b>06 July 2022</b>: Added power considerations to the manual (page 19). More photos (of the official case) added to the /Photos directory.
