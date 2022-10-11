@@ -6,9 +6,9 @@ Agon light™ is a unique combination of instant-on microcomputer and standalone
 The <a href="https://github.com/TheByteAttic/AgonLight/blob/main/Agon%20light%20R1.0%20Manual.pdf">Hardware Manual</a> and the <a href="https://github.com/TheByteAttic/AgonLight/blob/main/Agon%20light%20Quick%20Start%20Guide.pdf">Quick Start Guide</a> should also contain everything you need to know.<p>
 The three modules of Agon light™'s official firmware, called Quark™, can be found here:
 <UL>
-  <LI><a href="https://github.com/breakintoprogram/agon-bbc-basic">Agon BBC BASIC</a><br>
-  <LI><a href="https://github.com/breakintoprogram/agon-mos">Agon MOS</a><br>
-  <LI><a href="https://github.com/breakintoprogram/agon-vpd">Agon VPD</a><br>
+  <LI><a href="https://github.com/breakintoprogram/agon-bbc-basic">Quark™ BBC BASIC</a><br>
+  <LI><a href="https://github.com/breakintoprogram/agon-mos">Quark™ MOS</a><br>
+  <LI><a href="https://github.com/breakintoprogram/agon-vpd">Quark™ VPD</a><br>
 </UL>
 Agon light™ has an <a href="https://www.printables.com/model/235402-agonlight-case">official, customized, 3D-printed case</a>, designed by Jeroen Venema. I recommend this case for protection and extra mechanical stability.
 <p><br>
