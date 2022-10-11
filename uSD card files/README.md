@@ -1,0 +1,1 @@
+Load these files and directories to a micro SD card, then insert the card into Agon Light™. The <a href="">Quick STart Guide</a> assumes that these files are present in the micro SD card in Agon Light™.
