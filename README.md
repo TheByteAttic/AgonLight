@@ -3,7 +3,7 @@
 
 
 Agon light™ is a unique combination of instant-on microcomputer and standalone microcontroller, which allows you to control your projects from the convenience and immediacy of a BASIC prompt, without the need for a host PC or sketch compilation. To find out more about what makes Agon light™ unique, useful and attractive, please visit the official website at: https://www.thebyteattic.com/p/agon.html.<p>
-The <a href="https://github.com/TheByteAttic/AgonLight/blob/main/Agon%20light%20R1.0%20Manual.pdf">Hardware Manual</a> and the <a href="https://github.com/TheByteAttic/AgonLight/blob/main/Agon%20light%20Quick%20Start%20Guide.pdf">Quick Start Guide</a> (the latter assumes that the files in the "/uSD card files" directory are present in the uSD card inserted in the Agon light™ unit) should also contain everything you need to know.<p>
+The <a href="https://github.com/TheByteAttic/AgonLight/blob/main/Agon%20light%20R1.0%20Manual.pdf">Hardware Manual</a> and the <a href="https://github.com/TheByteAttic/AgonLight/blob/main/Agon%20light%20Quick%20Start%20Guide.pdf">Quick Start Guide</a> (the latter assumes that the files in the <a href="https://github.com/TheByteAttic/AgonLight/tree/main/uSD%20card%20files">/uSD card files</a> directory are present in the uSD card inserted in the Agon light™ unit) should also contain everything you need to know.<p>
 The three modules of Agon light™'s official firmware, called Quark™, can be found here:
 <UL>
   <LI><a href="https://github.com/breakintoprogram/agon-bbc-basic">Quark™ BBC BASIC</a><br>
@@ -36,7 +36,7 @@ All rights are reserved.
 <b>CHANGE HISTORY:</b>
 <p>
 <UL>
-  <LI><b>11 October 2022</b>: Updated the Quick Start Guide.
+  <LI><b>11 October 2022</b>: Updated the Quick Start Guide; Added the "/uSD card files" directory.
   <LI><b>5 October 2022</b>: Quick Start Guide uploaded.
   <LI><b>4 August 2022</b>: Update of the Manual. The theory of operation (page 6) and the system diagram (page 7) now contain information about the two interrupt lines from the ESP32 available to the eZ80F92. A description of the control port signals (page 10) has also been added.
   <LI><b>26 July 2022</b>: Various bits and pieces of previously missing information added to the manual. System diagram (page 7) updated.
