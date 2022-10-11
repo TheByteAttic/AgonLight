@@ -36,7 +36,7 @@ All rights are reserved.
 <b>CHANGE HISTORY:</b>
 <p>
 <UL>
-  <LI><b>11 October 2022</b>: Updated the Quick Start Guide; Added the "/uSD card files" directory.
+  <LI><b>11 October 2022</b>: Update of the Quick Start Guide; The "/uSD card files" directory has been added.
   <LI><b>5 October 2022</b>: Quick Start Guide uploaded.
   <LI><b>4 August 2022</b>: Update of the Manual. The theory of operation (page 6) and the system diagram (page 7) now contain information about the two interrupt lines from the ESP32 available to the eZ80F92. A description of the control port signals (page 10) has also been added.
   <LI><b>26 July 2022</b>: Various bits and pieces of previously missing information added to the manual. System diagram (page 7) updated.
