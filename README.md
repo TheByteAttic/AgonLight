@@ -37,6 +37,7 @@ All rights are reserved.
 <b>CHANGE HISTORY:</b>
 <p>
 <UL>
+  <LI><b>15 October 2022</b>: Improvements to the Bill of Materials spreadsheets for more clarity regarding which components to source.
   <LI><b>14 October 2022</b>: Update of the Hardware Manual to include a reference, on page 16, to Zilog's USB Smart Cable with product number ZUSBESC0200ZACG as an in-stock alternative to the older model.
   <LI><b>11 October 2022</b>: Update of the Quick Start Guide; The "/uSD card files" directory has been added.
   <LI><b>5 October 2022</b>: Quick Start Guide uploaded.
