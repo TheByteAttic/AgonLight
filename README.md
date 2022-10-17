@@ -41,7 +41,6 @@ All rights are reserved.
   <LI><b>17 October 2022</b>: All documentation updated to reflect the fact that the Zilog USB Smart Cable with product number ZUSBESC0200ZACG will <i>NOT</i> work with Agon light™. The only <i>CORRECT</i> cable has product number ZUSBSC00100ZACG.
   <LI><b>16 October 2022</b>: Step-by-step firmware installation guide added to the repository.
   <LI><b>15 October 2022</b>: Improvements to the Bill of Materials spreadsheets for more clarity regarding which components to source.
-  <LI><b>14 October 2022</b>: Small update of the Hardware Manual.
   <LI><b>11 October 2022</b>: Update of the Quick Start Guide; The "/uSD card files" directory has been added.
   <LI><b>5 October 2022</b>: Quick Start Guide uploaded.
   <LI><b>4 August 2022</b>: Update of the Manual. The theory of operation (page 6) and the system diagram (page 7) now contain information about the two interrupt lines from the ESP32 available to the eZ80F92. A description of the control port signals (page 10) has also been added.
