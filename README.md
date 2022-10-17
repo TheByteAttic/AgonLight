@@ -38,6 +38,7 @@ All rights are reserved.
 <b>CHANGE HISTORY:</b>
 <p>
 <UL>
+  <LI><b>17 October 2022</b>: ALl documentation updated to reflect the fact that the Zilog USB Smart Cable with product number ZUSBESC0200ZACG will <i>NOT</i> work with Agon light™. The only <i>CORRECT</i> cable has product number ZUSBESC0200ZACG.
   <LI><b>16 October 2022</b>: Step-by-step firmware installation guide added to the repository.
   <LI><b>15 October 2022</b>: Improvements to the Bill of Materials spreadsheets for more clarity regarding which components to source.
   <LI><b>14 October 2022</b>: Update of the Hardware Manual to include a reference, on page 16, to Zilog's USB Smart Cable with product number ZUSBESC0200ZACG as an in-stock alternative to the older model.
