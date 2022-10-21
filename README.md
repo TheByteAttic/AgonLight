@@ -6,9 +6,9 @@ Agon light™ is a unique combination of instant-on microcomputer and standalone
 The <a href="https://github.com/TheByteAttic/AgonLight/blob/main/Agon%20light%20R1.0%20Manual.pdf">Hardware Manual</a> and the <a href="https://github.com/TheByteAttic/AgonLight/blob/main/Agon%20light%20Quick%20Start%20Guide.pdf">Quick Start Guide</a> (the latter assumes that the files in the <a href="https://github.com/TheByteAttic/AgonLight/tree/main/uSD%20card%20files">/uSD card files</a> directory are present in the uSD card inserted in the Agon light™ unit) should also contain everything you need to know.<p>
 The three modules of Agon light™'s official firmware, called Quark™, can be found here:
 <UL>
-  <LI><a href="https://github.com/breakintoprogram/agon-bbc-basic">Quark™ BBC BASIC</a><br>
-  <LI><a href="https://github.com/breakintoprogram/agon-mos">Quark™ MOS</a><br>
-  <LI><a href="https://github.com/breakintoprogram/agon-vpd">Quark™ VDP</a><br>
+  <LI><a href="https://github.com/breakintoprogram/agon-bbc-basic/releases">Quark™ BBC BASIC</a><br>
+  <LI><a href="https://github.com/breakintoprogram/agon-mos/releases">Quark™ MOS</a><br>
+  <LI><a href="https://github.com/breakintoprogram/agon-vdp/releases">Quark™ VDP</a><br>
 </UL>
 If you are installing Quark™ yourself, the <a href="https://github.com/TheByteAttic/AgonLight/blob/main/Agon%20light%E2%84%A2%20Firmware%20Installation%20Guide.pdf">Firmware Installation Guide</a> has step-by-step instructions on how to do it.<p><br>
 Agon light™ has an <a href="https://www.printables.com/model/235402-agonlight-case">official, customized, 3D-printed case</a>, designed by Jeroen Venema. I recommend this case for protection and extra mechanical stability.
