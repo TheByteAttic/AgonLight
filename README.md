@@ -38,6 +38,7 @@ All rights are reserved.
 <b>CHANGE HISTORY:</b>
 <p>
 <UL>
+  <LI><b>21 October 2022</b>: Quick Start Guide, Firmware Installation Guide, and bbcbasic.bin (in the folder /uSD card files) updated.
   <LI><b>17 October 2022</b>: All documentation updated to reflect the fact that the Zilog USB Smart Cable with product number ZUSBESC0200ZACG will <i>NOT</i> work with Agon light™. The only <i>CORRECT</i> cable has product number ZUSBSC00100ZACG.
   <LI><b>16 October 2022</b>: Step-by-step firmware installation guide added to the repository.
   <LI><b>15 October 2022</b>: Improvements to the Bill of Materials spreadsheets for more clarity regarding which components to source.
