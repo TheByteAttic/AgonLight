@@ -38,6 +38,7 @@ All rights are reserved.
 <b>CHANGE HISTORY:</b>
 <p>
 <UL>
+  <LI><b>02 December 2022</b>: Update to the Hardware Manual and schematics to correct an error: the positions of the control port pins ESPI36 to ESPI39 were documented in reverse order, but are now corrected. This update does <i>not</i> change the manufacturing files (Gerber, pick & place and bill of materials files).
   <LI><b>23 November 2022</b>: Update to the uSD card files and the firmware installation guide to reflect release 1.02 of Quark MOS™, Quark VDP™, and Quark BBC BASIC™.
   <LI><b>24 October 2022</b>: Quick Start Guide and Firmware Installation Guide updated to reflect the fact that Agon light™ requires a Fat32-formatted uSD-card with a partition of no more than 32GB.
   <LI><b>21 October 2022</b>: Quick Start Guide, Firmware Installation Guide, and bbcbasic.bin (in the folder /uSD card files) updated.
