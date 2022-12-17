@@ -11,7 +11,7 @@ The three modules of Agon light™'s official firmware, called Quark™, can be 
   <LI><a href="https://github.com/breakintoprogram/agon-vdp/releases">Quark™ VDP</a><br>
 </UL>
 Quark™ MOS, running on the Zilog eZ80 CPU, can now be upgraded <i>without</i> the dedicated Zilog USB Smart Cable, by using <a href="https://github.com/envenomator/Agon/tree/master/Programs/flash">this utility written by Jeroen Venema</a>. The utility is clearly documented and has been tested.<p><br>
-If you are installing Quark™ yourself, the <a href="https://github.com/TheByteAttic/AgonLight/blob/main/Agon%20light%E2%84%A2%20Firmware%20Installation%20Guide.pdf">Firmware Installation Guide</a> has step-by-step instructions on how to do it.<p><br>
+If you are installing Quark™ yourself, the <a href="https://github.com/TheByteAttic/AgonLight/blob/main/Agon%20light%E2%84%A2%20Firmware%20Installation%20Guide.pdf">Firmware Installation Guide</a> has step-by-step instructions on how to do it.<p>
 Agon light™ has an <a href="https://www.printables.com/model/235402-agonlight-case">official, customized, 3D-printed case</a>, designed by Jeroen Venema. I recommend this case for protection and extra mechanical stability.
 <p><br>
   
