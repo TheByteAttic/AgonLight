@@ -11,7 +11,7 @@ The three modules of Agon light™'s official firmware, called Quark™, can be 
   <LI><a href="https://github.com/breakintoprogram/agon-vdp/releases">Quark™ VDP</a><br>
 </UL>
 Quark™ MOS, running on the Zilog eZ80 CPU, can now be upgraded <i>without</i> the dedicated Zilog USB Smart Cable, by using <a href="https://github.com/envenomator/Agon/tree/master/Programs/flash">this utility written by Jeroen Venema</a>. The utility is clearly documented and has been tested.<p><br>
-If you are installing Quark™ yourself, the <a href="https://github.com/TheByteAttic/AgonLight/blob/main/Agon%20light%E2%84%A2%20Firmware%20Installation%20Guide.pdf">Firmware Installation Guide</a> has step-by-step instructions on how to do it.<br>
+If you are installing Quark™ yourself, the <a href="https://github.com/TheByteAttic/AgonLight/blob/main/Agon%20light%E2%84%A2%20Firmware%20Installation%20Guide.pdf">Firmware Installation Guide</a> has step-by-step instructions on how to do it.<p><br>
 Agon light™ has an <a href="https://www.printables.com/model/235402-agonlight-case">official, customized, 3D-printed case</a>, designed by Jeroen Venema. I recommend this case for protection and extra mechanical stability.
 <p><br>
   
@@ -39,7 +39,7 @@ All rights are reserved.
 <b>CHANGE HISTORY:</b>
 <p>
 <UL>
-  <LI><b>17 December 2022</a>: Link to the Quark™ MOS cable-free upgrade utility added to this README file.
+  <LI><b>17 December 2022</b>: Link to the Quark™ MOS cable-free upgrade utility added to this README file.
   <LI><b>16 December 2022</b>: Small update to the Firmware Installation Guide. Namely, the description of steps 45 and 47 was improved for clarity.
   <LI><b>02 December 2022</b>: Update to the Hardware Manual and schematics to correct an error: the positions of the control port pins ESPI36 to ESPI39 were documented in reverse order, but are now corrected. This update does <i>not</i> change the manufacturing files (Gerber, pick & place and bill of materials files).
   <LI><b>23 November 2022</b>: Update to the uSD card files and the firmware installation guide to reflect release 1.02 of Quark MOS™, Quark VDP™, and Quark BBC BASIC™.
