@@ -39,7 +39,7 @@ All rights are reserved.
 <b>CHANGE HISTORY:</b>
 <p>
 <UL>
-  <LI><b>27 February 2023</b>: All documentation has been updated to take into account (a) the product number of the new Zilog USB Smart Cable (namely, ZUSBASC0200ZACG), since the previous version (namely, ZUSBSC00100ZACG) is now discontinued; and (b) the fact that Quark MOS™ firmware (for the eZ80 CPU) updates can be done without the Zilog cable, by using a software utility developed by Jeroen Venema; moreover, (c) the official Zilog manual for the new USB Smart Cable (ZUSBASC0200ZACG) has been added to the /third party documentation folder for convenience.
+  <LI><b>27 February 2023</b>: All documentation has been updated to take into account (a) the product number of the new Zilog USB Smart Cable (namely, ZUSBASC0200ZACG), since the previous version (namely, ZUSBSC00100ZACG) is now discontinued; and (b) the fact that Quark MOS™ firmware (for the eZ80 CPU) updates can be done without the Zilog cable, by using a software utility developed by Jeroen Venema; moreover, (c) the official Zilog manual for the new USB Smart Cable (ZUSBASC0200ZACG) has been added to the /Third party documentation folder for convenience.
   <LI><b>17 December 2022</b>: Link to the Quark™ MOS cable-free upgrade utility added to this README file.
   <LI><b>16 December 2022</b>: Small update to the Firmware Installation Guide. Namely, the description of steps 45 and 47 was improved for clarity.
   <LI><b>02 December 2022</b>: Update to the Hardware Manual and schematics to correct an error: the positions of the control port pins ESPI36 to ESPI39 were documented in reverse order, but are now corrected. This update does <i>not</i> change the manufacturing files (Gerber, pick & place and bill of materials files).
