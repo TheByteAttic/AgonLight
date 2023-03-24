@@ -33,14 +33,14 @@ The directory structure above contains the following information:
 
 <p><br>
 All files in this repository, except for the third-party documentation,<br>
-Copyright &copy; 2022 by Bernardo Kastrup.<br>
+Copyright &copy; 2022-2023 by Bernardo Kastrup.<br>
 All rights are reserved.
 <p>
 <hr>
 <b>CHANGE HISTORY:</b>
 <p>
 <UL>
-  <LI><b>24 March 2023</b>: The Hardware Manual has been updated with the new baud rate supported between CPU and video co-processor, namely 1,152,000 bits per second (about four times faster than the previously recommended rate of 384,000 bps). <i>All</i> Agons, even the ones already in the field from day one, can be upgraded with this new baud rate at the next release of the Quark™ firmware. The hardware had the capability built into it from the get-go, it was a question of firmware. So enjoy!
+  <LI><b>24 March 2023</b>: The Hardware Manual has been updated with the new baud rate supported between CPU and video co-processor, namely 1,152,000 bits per second (three times faster than the previously recommended rate of 384,000 bps). <i>All</i> Agons, even the ones already in the field from day one, can be upgraded with this new baud rate at the next release of the Quark™ firmware. The hardware had the capability built into it from the get-go, it was a question of firmware. So enjoy!
   <LI><b>27 February 2023</b>: All documentation has been updated to take into account (a) the product number of the new Zilog USB Smart Cable (namely, ZUSBASC0200ZACG), since the previous version (namely, ZUSBSC00100ZACG) is now discontinued; and (b) the fact that Quark MOS™ firmware (for the eZ80 CPU) updates can be done without the Zilog cable, by using a software utility developed by Jeroen Venema; moreover, (c) the official Zilog manual for the new USB Smart Cable (ZUSBASC0200ZACG) has been added to the /Third party documentation folder for convenience.
   <LI><b>17 December 2022</b>: Link to the Quark™ MOS cable-free upgrade utility added to this README file.
   <LI><b>16 December 2022</b>: Small update to the Firmware Installation Guide. Namely, the description of steps 45 and 47 was improved for clarity.
