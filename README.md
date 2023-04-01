@@ -14,7 +14,7 @@ Quark™ MOS, running on the Zilog eZ80 CPU, can now be upgraded <i>without</i> 
 Firmware documentation is now collected and maintained in <a href="https://github.com/breakintoprogram/agon-docs/wiki">the Agon light™WiKi</a>.<br><p>
 If you are installing Quark™ yourself, the <a href="https://github.com/TheByteAttic/AgonLight/blob/main/Agon%20light%E2%84%A2%20Firmware%20Installation%20Guide.pdf">Firmware Installation Guide</a> has step-by-step instructions on how to do it.<p>
 Agon light™ has an <a href="https://www.printables.com/model/235402-agonlight-case">official, customized, 3D-printed case</a>, designed by Jeroen Venema. I recommend this case for protection and extra mechanical stability.<p>
-There is now <a href="https://docs.google.com/spreadsheets/d/1-6_sz6l-vJW5rFg3M0Y6bwC0hmFS7U6PPNjIZ9plrM8/edit?fbclid=IwAR0nHLyEWDt9u6kfQ8sm9wdA0zNlBNsbkKcfCymPKWE6WWvjtqveapsmQHg#gid=0">an online, community-maintained resource listing all PS/2-compatible keyboards known to work with Agon light™</a>. Anyone can edit this spreadsheet, so take it with a grain of salt. Nonetheless, it surely provides very useful indications.
+There is now <a href="https://docs.google.com/spreadsheets/d/1-6_sz6l-vJW5rFg3M0Y6bwC0hmFS7U6PPNjIZ9plrM8/edit?fbclid=IwAR0nHLyEWDt9u6kfQ8sm9wdA0zNlBNsbkKcfCymPKWE6WWvjtqveapsmQHg#gid=0">an online, community-maintained resource listing many PS/2-compatible keyboards known to work with Agon light™</a>. Anyone can edit this spreadsheet, so take it with a grain of salt. Nonetheless, it surely provides very useful indications.
 <p><br>
   
 ![AgonLight Case Montage](https://user-images.githubusercontent.com/69539226/177433409-fe3092d2-4595-4a67-b965-d64440dbf8c5.png)
