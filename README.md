@@ -13,7 +13,8 @@ The three modules of Agon light™'s official firmware, called Quark™, can be 
 Quark™ MOS, running on the Zilog eZ80 CPU, can now be upgraded <i>without</i> the dedicated Zilog USB Smart Cable, by using <a href="https://github.com/envenomator/agon-flash">this utility written by Jeroen Venema</a>. The utility is clearly documented and has been tested.<p><br>
 Firmware documentation is now collected and maintained in <a href="https://github.com/breakintoprogram/agon-docs/wiki">the Agon light™WiKi</a>.<br><p>
 If you are installing Quark™ yourself, the <a href="https://github.com/TheByteAttic/AgonLight/blob/main/Agon%20light%E2%84%A2%20Firmware%20Installation%20Guide.pdf">Firmware Installation Guide</a> has step-by-step instructions on how to do it.<p>
-Agon light™ has an <a href="https://www.printables.com/model/235402-agonlight-case">official, customized, 3D-printed case</a>, designed by Jeroen Venema. I recommend this case for protection and extra mechanical stability.
+Agon light™ has an <a href="https://www.printables.com/model/235402-agonlight-case">official, customized, 3D-printed case</a>, designed by Jeroen Venema. I recommend this case for protection and extra mechanical stability.<p>
+There is now <a href="https://docs.google.com/spreadsheets/d/1-6_sz6l-vJW5rFg3M0Y6bwC0hmFS7U6PPNjIZ9plrM8/edit?fbclid=IwAR0nHLyEWDt9u6kfQ8sm9wdA0zNlBNsbkKcfCymPKWE6WWvjtqveapsmQHg#gid=0">an online, community-maintained resource listing all PS/2-compatible keyboards known to work with Agon light™</a>. Anyone can edit this spreadsheet, so take it with a grain of salt. Nonetheless, it surely provides very useful indications.
 <p><br>
   
 ![AgonLight Case Montage](https://user-images.githubusercontent.com/69539226/177433409-fe3092d2-4595-4a67-b965-d64440dbf8c5.png)
@@ -40,6 +41,7 @@ All rights are reserved.
 <b>CHANGE HISTORY:</b>
 <p>
 <UL>
+  <LI><b>1 April 2023</b>: A list of known-to-work PS/2 keyboards that can be used with Agon light™ has been added to this README (no April Fools joke).
   <LI><b>24 March 2023</b>: The Hardware Manual has been updated with the new baud rate supported between CPU and video co-processor, namely 1,152,000 bits per second (three times faster than the previously recommended rate of 384,000 bps). <i>All</i> Agons, even the ones already in the field from day one, can be upgraded with this new baud rate with the next release of the Quark™ firmware. The hardware has had the capability built into it from the get-go; it was a question of firmware. So enjoy!
   <LI><b>27 February 2023</b>: All documentation has been updated to take into account (a) the product number of the new Zilog USB Smart Cable (namely, ZUSBASC0200ZACG), since the previous version (namely, ZUSBSC00100ZACG) is now discontinued; and (b) the fact that Quark MOS™ firmware (for the eZ80 CPU) updates can be done without the Zilog cable, by using a software utility developed by Jeroen Venema; moreover, (c) the official Zilog manual for the new USB Smart Cable (ZUSBASC0200ZACG) has been added to the /Third party documentation folder for convenience.
   <LI><b>17 December 2022</b>: Link to the Quark™ MOS cable-free upgrade utility added to this README file.
