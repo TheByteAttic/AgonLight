@@ -1,4 +1,4 @@
-# Agon light™ (new board revision is out, see announcement below)
+# Agon light™ (outdated and superseded, see announcement and link to new repository below)
 
 <i><b>IMPORTANT ANNOUNCEMENT (July 19, 2023):</b></i> Agon light™ has a new and superior board revision, called the '<a href="https://github.com/TheByteAttic/AgonORIGINS/tree/main">ORIGINS edition</a>,' which <i>supercedes this original version for all cases</i>. Heber Ltd.'s <a href="https://heber.co.uk/agon-console8/">Agon Console8</a> is already based on the improvements of that new revision. This repository is now maintained <i>purely for legacy reasons</i>. All makers and sellers should migrate to the ORIGINS edition promptly; it is 100% backward compatible with the original in this repository, but uses a couple of different parts. <i>So be alert for the updates to the Bill of Materials!</i>
 
